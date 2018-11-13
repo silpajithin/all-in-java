@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9faf38f9-ba17-489e-a75c-8979d289c9e6" name="Default" comment="" />
+    <list default="true" id="9faf38f9-ba17-489e-a75c-8979d289c9e6" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/all-in-java.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/sil/java/junit/Sample.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/sil/java/junit/MyTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/sil/java/junit/SampleTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/sil/java/junit/Sample.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/sil/java/junit/MyTest.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/target/test-classes/com/sil/java/junit/SampleTest.class" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
